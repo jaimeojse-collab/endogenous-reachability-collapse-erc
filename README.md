@@ -1,5 +1,7 @@
 # Endogenous Reachability Collapse (ERC)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19175969.svg)](https://doi.org/10.5281/zenodo.19175969)
+
 A minimal dynamical model for loss of recoverability without loss of state space.
 
 ## Overview
