@@ -33,7 +33,7 @@ Importantly:
 
 ## 📊 Contents
 
-- `Endogenous Reachability Collapse Model.pdf`  
+- `ERC-paper-2-ensemble.pdf`  
   Formal description of the model and results  
 
 - `ercm_simulation.ipynb`  
