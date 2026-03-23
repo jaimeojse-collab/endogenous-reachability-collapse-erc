@@ -33,7 +33,7 @@ Importantly:
 
 ## 📊 Contents
 
-- `manuscript.pdf`  
+- `Endogenous Reachability Collapse Model.pdf`  
   Formal description of the model and results  
 
 - `ercm_simulation.ipynb`  
