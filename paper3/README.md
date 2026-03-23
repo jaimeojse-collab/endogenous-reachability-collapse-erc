@@ -38,7 +38,7 @@ This indicates that:
 - `code/ercm_rate_model.ipynb`  
   Reproducible simulations with time-dependent forcing  
 
-- `figure/`  
+- `figures/`  
   Visualizations of:
   - recovery vs input rate  
   - collapse boundaries under different forcing profiles  
