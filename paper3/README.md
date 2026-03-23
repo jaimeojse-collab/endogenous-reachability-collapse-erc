@@ -100,3 +100,5 @@ Instead, it provides a conceptual framework for understanding how recovery may f
 ## 🤝 Contributions
 
 Independent replication, critique, and extensions are welcome.
+
+This work extends the ERC framework introduced in Paper 1 and expanded in Paper 2.
