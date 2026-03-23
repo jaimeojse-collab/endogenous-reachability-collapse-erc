@@ -32,7 +32,7 @@ This indicates that:
 
 ## 📊 Contents
 
-- `ercm-paper-3-rate-dependent.pdf`  
+- `ERC-paper-3-rate-dependen`  
   Formal description of the rate-dependent model  
 
 - `code/ercm_rate_model.ipynb`  
