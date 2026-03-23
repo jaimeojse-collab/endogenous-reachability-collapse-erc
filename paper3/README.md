@@ -1,5 +1,7 @@
 # Paper 3 – Rate-dependent Reachability Collapse
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19189528.svg)](https://doi.org/10.5281/zenodo.19189528)
+
 This document presents the temporal extension of the Endogenous Reachability Collapse (ERC) framework.
 
 While previous work establishes that recoverability can be lost due to internal constraints, this paper investigates whether collapse depends not only on the magnitude of perturbation, but on the **rate at which it is applied**.
