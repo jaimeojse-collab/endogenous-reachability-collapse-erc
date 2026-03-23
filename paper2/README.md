@@ -1,5 +1,9 @@
 # Paper 2 – Ensemble Reachability Collapse
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19189310.svg)](https://doi.org/10.5281/zenodo.19189310)
+
+DOI: https://doi.org/10.5281/zenodo.19189310
+
 This document presents the ensemble-level extension of the Endogenous Reachability Collapse (ERC) framework.
 
 While Paper 1 introduces a minimal dynamical system where recoverability becomes inaccessible due to internal constraints, this work explores how that phenomenon manifests across a distribution of initial conditions.
