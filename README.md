@@ -1,4 +1,15 @@
-# Endogenous Reachability Collapse (ERC)
+## ERC Paper Series
+
+This repository contains a three-part research series:
+
+### Paper 1 – Minimal ERC model  
+DOI: https://doi.org/10.5281/zenodo.19123635  
+
+### Paper 2 – Ensemble Reachability Collapse  
+DOI: https://doi.org/10.5281/zenodo.19189310  
+
+### Paper 3 – Rate-dependent Reachability Collapse  
+DOI: https://doi.org/10.5281/zenodo.19189528  
 
 A minimal dynamical framework for understanding loss of recoverability without removal of state space.
 
